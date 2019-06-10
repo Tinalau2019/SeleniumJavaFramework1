@@ -1,0 +1,10 @@
+[INFO ] 2019-06-05 13:47:24.501 [main] Log4jDemo - this is information massage
+[ERROR] 2019-06-05 13:47:24.503 [main] Log4jDemo - this is an error message
+[WARN ] 2019-06-05 13:47:24.503 [main] Log4jDemo - this is an warning message
+[INFO ] 2019-06-05 13:48:24.605 [main] Log4jDemo - this is information massage
+[ERROR] 2019-06-05 13:48:24.605 [main] Log4jDemo - this is an error message
+[WARN ] 2019-06-05 13:48:24.605 [main] Log4jDemo - this is an warning message
+[TRACE] 2019-06-05 13:49:44.420 [main] Log4jDemo - this is a trace message
+[INFO ] 2019-06-05 13:49:44.422 [main] Log4jDemo - this is information massage
+[ERROR] 2019-06-05 13:49:44.422 [main] Log4jDemo - this is an error message
+[WARN ] 2019-06-05 13:49:44.422 [main] Log4jDemo - this is an warning message
