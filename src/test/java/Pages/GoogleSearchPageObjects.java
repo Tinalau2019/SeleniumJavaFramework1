@@ -28,4 +28,5 @@ public class GoogleSearchPageObjects {
 		driver.findElements(button_search).Click();
 	}
 
+     driver.getPagetitle();
 }
